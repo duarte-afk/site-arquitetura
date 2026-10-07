@@ -1,13 +1,11 @@
 # Prumo Arquitetos | Site de arquitetura
 
-Projeto da atividade **Recuperação - 3º bimestre**: recriação de um site de escritório de arquitetura com **React + Vite + React Router**, inspirado no protótipo do Figma indicado no enunciado.
+Projeto da atividade Recuperação 3º bimestre: recriação de um site de escritório de arquitetura com **React + Vite + React Router**, inspirado no protótipo do Figma indicado no enunciado.
 
 ## Integrantes
 
-- Nome do integrante 1
-- Nome do integrante 2
-- Nome do integrante 3
-- Nome do integrante 4
+- Lucas Duarte de Carvalho
+- Rodrigo Ramos Ribeiro
 
 ## Tecnologias
 
